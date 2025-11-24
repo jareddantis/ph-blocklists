@@ -1,174 +1,174 @@
-0.0.0.0 24sevendailynews.com
-0.0.0.0 360news.live
-0.0.0.0 aboutdu30.info
-0.0.0.0 akoy-pilipino.blogspot.com
-0.0.0.0 aksyon.tv
-0.0.0.0 aljazeeranews-tv.com
-0.0.0.0 allthingspinoy.com
-0.0.0.0 angatpilipino.info
-0.0.0.0 asensopinoy.info
-0.0.0.0 asianpolicy.press
-0.0.0.0 astigtayopinoy.altervista.org
-0.0.0.0 bacolod.altervista.org
-0.0.0.0 balita.definitelyfilipino.com
-0.0.0.0 balitangpanglahat.info
-0.0.0.0 balitangpinoy.ga
-0.0.0.0 balitangtotoo.xyz
-0.0.0.0 balitaonline.xyz
-0.0.0.0 breaking-bbc.co.uk
-0.0.0.0 breezynetwork.info
-0.0.0.0 buzz.definitelyfilipino.com
-0.0.0.0 buzz.definitelyfilipino.net
-0.0.0.0 casterph.xyz
-0.0.0.0 citizenexpress.today
-0.0.0.0 classifiedtrends.net
-0.0.0.0 cnn-channel.com
-0.0.0.0 dailyartikulo.info
-0.0.0.0 dailyfilipinews.blogspot.com
-0.0.0.0 dailyfilipino.altervista.org
-0.0.0.0 dailyinsights.today
-0.0.0.0 dailyviralhub.altervista.org
-0.0.0.0 dakila.info
-0.0.0.0 dakilanglahi.info
-0.0.0.0 dds-tambayan.info
-0.0.0.0 ddsfiles.xyz
-0.0.0.0 dedma.com
-0.0.0.0 definitelyfilipino.com
-0.0.0.0 du30.altervista.org
-0.0.0.0 du30community.info
-0.0.0.0 du30express.site
-0.0.0.0 du30gov.com
-0.0.0.0 du30news.com
-0.0.0.0 du30news.net
-0.0.0.0 du30newsblog.blogspot.com
-0.0.0.0 du30newsinfo.com
-0.0.0.0 du30today.com
-0.0.0.0 du3onews.info
-0.0.0.0 dugongmaharlika.com
-0.0.0.0 dutertards.info
-0.0.0.0 dutertedefender.com
-0.0.0.0 dutertefederal.info
-0.0.0.0 dutertenews.com
-0.0.0.0 dutertenewswatch.com
-0.0.0.0 dutertepilipinas.info
-0.0.0.0 dutertetrend.info
-0.0.0.0 dutertetrendingnews.blogspot.com
-0.0.0.0 dutrending.info
-0.0.0.0 dw-tv3.com
-0.0.0.0 dyaryo.net
-0.0.0.0 earningmania.com
-0.0.0.0 extremereaders.com
-0.0.0.0 filipinews.com
-0.0.0.0 filipinews.info
-0.0.0.0 filipinewsph.com
-0.0.0.0 filipinewsph.net
-0.0.0.0 France24-tv.com
-0.0.0.0 fullnewsph.xyz
-0.0.0.0 getrealphilippines.com
-0.0.0.0 globalnews.favradio.fm
-0.0.0.0 gma-tv.com
-0.0.0.0 goforwin.info
-0.0.0.0 goodnewsnetworkph.com
-0.0.0.0 goodnewstoday.d30.club
-0.0.0.0 gossipdiary.com
-0.0.0.0 hotnewsphil.blogspot.com
-0.0.0.0 iampilipino.com
-0.0.0.0 ilikeyouquotes.blogspot.com
-0.0.0.0 internationallatestupdates.blogspot.com
-0.0.0.0 jazznews.top
-0.0.0.0 kabalitaka.blogspot.com
-0.0.0.0 kalyepinoy.com
-0.0.0.0 kantonewsph.info
-0.0.0.0 kantonewsph.xyz
-0.0.0.0 latestdutertenews.altervista.org
-0.0.0.0 latestnewz.xyz
-0.0.0.0 leaknewsph.com
-0.0.0.0 localhero.altervista.org
-0.0.0.0 lugto.com
-0.0.0.0 maharlikanews.com
-0.0.0.0 makibalita.info
-0.0.0.0 mediacurious.com
-0.0.0.0 mediaph.info
-0.0.0.0 mindanation.com
-0.0.0.0 my-prosper.press
-0.0.0.0 mynewstv.newsgenic.com
-0.0.0.0 nagbabagangbalita.info
-0.0.0.0 napankamkumametbeewan.info
-0.0.0.0 netcitizen.co
-0.0.0.0 netizensph.com
-0.0.0.0 news.definitelyfilipino.net
-0.0.0.0 newsbite.top
-0.0.0.0 newscenterph.info
-0.0.0.0 newsfeedsociety.tk
-0.0.0.0 newsglobal.top
-0.0.0.0 newsinfolearn.com
-0.0.0.0 newsmediaph.com
-0.0.0.0 newspaperph.com
-0.0.0.0 newstitans.com
-0.0.0.0 newstv.tulfonews.com
-0.0.0.0 newstv5.com
-0.0.0.0 newzflash.info
-0.0.0.0 okd2.com
-0.0.0.0 onelinebalita.xyz
-0.0.0.0 philnewscourier.blogspot.com
-0.0.0.0 philnewsportal.com
-0.0.0.0 philstar.i-telecast.com
-0.0.0.0 phnewspride.blogspot.com
-0.0.0.0 phppoliticsnews.blogspot.com
-0.0.0.0 pilipinasonlineupdates.com
-0.0.0.0 pinasnewsportal.blogspot.com
-0.0.0.0 pinoyfreedomwall.com
-0.0.0.0 pinoyhopes.info
-0.0.0.0 pinoynews.info
-0.0.0.0 pinoynewsblogger.blogspot.com
-0.0.0.0 pinoyobserver.com
-0.0.0.0 pinoypolitics.altervista.org
-0.0.0.0 pinoyspeak.info
-0.0.0.0 pinoythinking.info
-0.0.0.0 pinoytrending.altervista.org
-0.0.0.0 pinoytrendingnews.net
-0.0.0.0 pinoytrendingnewsph.blogspot.com
-0.0.0.0 pinoyviralissues.net
-0.0.0.0 pinoyviralnews.com
-0.0.0.0 pinoyworld.net
-0.0.0.0 publictrending.net
-0.0.0.0 publictrending.news
-0.0.0.0 qwazk.blogspot.com
-0.0.0.0 socialcastph.info
-0.0.0.0 socialnewsph.com
-0.0.0.0 sowhatsnews.wordpress.com
-0.0.0.0 tahonews.com
-0.0.0.0 tartey.com
-0.0.0.0 tatakdu30.info
-0.0.0.0 telegraph-tv.com
-0.0.0.0 thedailysentry.net
-0.0.0.0 theguard1an.com
-0.0.0.0 thenewsfeeder.net
-0.0.0.0 thevolatilian.com
-0.0.0.0 thinkervlog.top
-0.0.0.0 thinkingpinoy.net
-0.0.0.0 thinkingpinoys.info
-0.0.0.0 tnp.ph
-0.0.0.0 tnp.today
-0.0.0.0 todayinmanila.ga
-0.0.0.0 todaysbroadcast.net
-0.0.0.0 todaystopnews.xyz
-0.0.0.0 tomorrow-economy.com
-0.0.0.0 trendingbalita.info
-0.0.0.0 trendingnewsportal-ph.blogspot.com
-0.0.0.0 trendingnewsportal.blogspot.com
-0.0.0.0 trendingnewsportal.com
-0.0.0.0 trendingnewsportal.net
-0.0.0.0 trendingnewsportal.net.ph
-0.0.0.0 trendingnewsvideo.com
-0.0.0.0 trendingtopics.altervista.org
-0.0.0.0 trendingviral.tk
-0.0.0.0 trendtitan.com
-0.0.0.0 tv-cnn.com
-0.0.0.0 unanghirit.info
-0.0.0.0 update.ph
-0.0.0.0 updatetayo.info
-0.0.0.0 verifiedph.blogspot.com
-0.0.0.0 viralportal.ml
-0.0.0.0 worldstrends.info
-0.0.0.0 xolxol.ph
+||24sevendailynews.com^
+||360news.live^
+||aboutdu30.info^
+||akoy-pilipino.blogspot.com^
+||aksyon.tv^
+||aljazeeranews-tv.com^
+||allthingspinoy.com^
+||angatpilipino.info^
+||asensopinoy.info^
+||asianpolicy.press^
+||astigtayopinoy.altervista.org^
+||bacolod.altervista.org^
+||balita.definitelyfilipino.com^
+||balitangpanglahat.info^
+||balitangpinoy.ga^
+||balitangtotoo.xyz^
+||balitaonline.xyz^
+||breaking-bbc.co.uk^
+||breezynetwork.info^
+||buzz.definitelyfilipino.com^
+||buzz.definitelyfilipino.net^
+||casterph.xyz^
+||citizenexpress.today^
+||classifiedtrends.net^
+||cnn-channel.com^
+||dailyartikulo.info^
+||dailyfilipinews.blogspot.com^
+||dailyfilipino.altervista.org^
+||dailyinsights.today^
+||dailyviralhub.altervista.org^
+||dakila.info^
+||dakilanglahi.info^
+||dds-tambayan.info^
+||ddsfiles.xyz^
+||dedma.com^
+||definitelyfilipino.com^
+||du30.altervista.org^
+||du30community.info^
+||du30express.site^
+||du30gov.com^
+||du30news.com^
+||du30news.net^
+||du30newsblog.blogspot.com^
+||du30newsinfo.com^
+||du30today.com^
+||du3onews.info^
+||dugongmaharlika.com^
+||dutertards.info^
+||dutertedefender.com^
+||dutertefederal.info^
+||dutertenews.com^
+||dutertenewswatch.com^
+||dutertepilipinas.info^
+||dutertetrend.info^
+||dutertetrendingnews.blogspot.com^
+||dutrending.info^
+||dw-tv3.com^
+||dyaryo.net^
+||earningmania.com^
+||extremereaders.com^
+||filipinews.com^
+||filipinews.info^
+||filipinewsph.com^
+||filipinewsph.net^
+||France24-tv.com^
+||fullnewsph.xyz^
+||getrealphilippines.com^
+||globalnews.favradio.fm^
+||gma-tv.com^
+||goforwin.info^
+||goodnewsnetworkph.com^
+||goodnewstoday.d30.club^
+||gossipdiary.com^
+||hotnewsphil.blogspot.com^
+||iampilipino.com^
+||ilikeyouquotes.blogspot.com^
+||internationallatestupdates.blogspot.com^
+||jazznews.top^
+||kabalitaka.blogspot.com^
+||kalyepinoy.com^
+||kantonewsph.info^
+||kantonewsph.xyz^
+||latestdutertenews.altervista.org^
+||latestnewz.xyz^
+||leaknewsph.com^
+||localhero.altervista.org^
+||lugto.com^
+||maharlikanews.com^
+||makibalita.info^
+||mediacurious.com^
+||mediaph.info^
+||mindanation.com^
+||my-prosper.press^
+||mynewstv.newsgenic.com^
+||nagbabagangbalita.info^
+||napankamkumametbeewan.info^
+||netcitizen.co^
+||netizensph.com^
+||news.definitelyfilipino.net^
+||newsbite.top^
+||newscenterph.info^
+||newsfeedsociety.tk^
+||newsglobal.top^
+||newsinfolearn.com^
+||newsmediaph.com^
+||newspaperph.com^
+||newstitans.com^
+||newstv.tulfonews.com^
+||newstv5.com^
+||newzflash.info^
+||okd2.com^
+||onelinebalita.xyz^
+||philnewscourier.blogspot.com^
+||philnewsportal.com^
+||philstar.i-telecast.com^
+||phnewspride.blogspot.com^
+||phppoliticsnews.blogspot.com^
+||pilipinasonlineupdates.com^
+||pinasnewsportal.blogspot.com^
+||pinoyfreedomwall.com^
+||pinoyhopes.info^
+||pinoynews.info^
+||pinoynewsblogger.blogspot.com^
+||pinoyobserver.com^
+||pinoypolitics.altervista.org^
+||pinoyspeak.info^
+||pinoythinking.info^
+||pinoytrending.altervista.org^
+||pinoytrendingnews.net^
+||pinoytrendingnewsph.blogspot.com^
+||pinoyviralissues.net^
+||pinoyviralnews.com^
+||pinoyworld.net^
+||publictrending.net^
+||publictrending.news^
+||qwazk.blogspot.com^
+||socialcastph.info^
+||socialnewsph.com^
+||sowhatsnews.wordpress.com^
+||tahonews.com^
+||tartey.com^
+||tatakdu30.info^
+||telegraph-tv.com^
+||thedailysentry.net^
+||theguard1an.com^
+||thenewsfeeder.net^
+||thevolatilian.com^
+||thinkervlog.top^
+||thinkingpinoy.net^
+||thinkingpinoys.info^
+||tnp.ph^
+||tnp.today^
+||todayinmanila.ga^
+||todaysbroadcast.net^
+||todaystopnews.xyz^
+||tomorrow-economy.com^
+||trendingbalita.info^
+||trendingnewsportal-ph.blogspot.com^
+||trendingnewsportal.blogspot.com^
+||trendingnewsportal.com^
+||trendingnewsportal.net^
+||trendingnewsportal.net.ph^
+||trendingnewsvideo.com^
+||trendingtopics.altervista.org^
+||trendingviral.tk^
+||trendtitan.com^
+||tv-cnn.com^
+||unanghirit.info^
+||update.ph^
+||updatetayo.info^
+||verifiedph.blogspot.com^
+||viralportal.ml^
+||worldstrends.info^
+||xolxol.ph^
